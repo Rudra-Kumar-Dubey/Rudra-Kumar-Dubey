@@ -1,5 +1,7 @@
 ### Hi there I am Rudra 👋
 
+here's my portfolio link: https://rudradubey04.github.io/
+
 - 🔭 I’m currently studing at VIT BHOPAL
 - 🌱 I’m currently learning BTECH CSECORE
 - 👯 I’m looking to collaborate on nothing

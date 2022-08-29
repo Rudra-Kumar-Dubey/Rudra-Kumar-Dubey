@@ -1,6 +1,5 @@
 ### Hi there I am Rudra 👋
 
-here's a link of website that I developed: https://rudradubey04.github.io/
 
 - 🔭 I’m currently studing at VIT BHOPAL
 - 🌱 I’m currently learning BTECH CSECORE

@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studing at VIT BHOPAL
-- 🌱 I’m currently learning BTECH CSECORE
+- 🌱 I’m currently learning BTECH CSE CORE
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with something
 - 💬 Ask me about anything

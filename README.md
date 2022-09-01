@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently studing at Vellore Institute of Technology, Bhopal
 - 🌱 I’m currently learning BTECH CSE CORE
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with something
+- 👯 I’m looking to collaborate on Web Devlopment
+- 🤔 I’m looking for help with React
 - 💬 Ask me about anything
 - 📫 How to reach me: you don't need to
 - 😄 Pronouns: Rudra

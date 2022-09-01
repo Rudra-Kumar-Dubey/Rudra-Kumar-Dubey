@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning BTECH CSE CORE
 - 👯 I’m looking to collaborate on Web Devlopment
 - 🤔 I’m looking for help with React
-- 💬 Ask me about anything
-- 📫 How to reach me: you don't need to
+- 💬 Ask me about C++, HTML , JS and CSS;
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: Rudra
 - ⚡ Fun fact: LIFE IS TOO SHORT
 

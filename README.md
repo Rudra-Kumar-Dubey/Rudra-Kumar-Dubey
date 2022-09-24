@@ -7,8 +7,8 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about C++, HTML , JS and CSS;
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: Rudra.
-- ⚡ Fun fact: LIFE IS SHORT.
+- 😄 Pronouns: Rudra
+- ⚡ Fun fact: LIFE IS SHORT
 
 <!--
 **rudradubey04/rudradubey04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

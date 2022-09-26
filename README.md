@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on Web Devlopment
 - 🤔 I’m looking for help with React
 - 💬 Ask me about C++, HTML , JS and CSS;
-- 📫 How to reach me: Linkedin
-- 😄 Pronouns: Rudra
+- 📫 How to reach me: Linkedin.
+- 😄 Pronouns: Rudra.
 - ⚡ Fun fact: LIFE IS SHORT
 
 <!--

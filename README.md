@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: you don't need to.
 - 😄 Pronouns: Rudra.
-- ⚡ Fun fact: LIFE IS TOO SHORT.
+- ⚡ Fun fact: LIFE IS TOO SHORT
 -->

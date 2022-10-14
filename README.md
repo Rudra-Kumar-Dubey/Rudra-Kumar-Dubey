@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Web Devlopment
 - 🤔 I’m looking for help with React
 - 💬 Ask me about C++, HTML , JS and CSS
-- 📫 How to reach me: Linkedin(https://www.linkedin.com/in/rudra-kumar-dubey/).
+- 📫 How to reach me: Linkedin(https://www.linkedin.com/in/rudra-kumar-dubey/)
 - 😄 Pronouns: Rudra
 - ⚡ Fun fact: LIFE IS SHORT
 

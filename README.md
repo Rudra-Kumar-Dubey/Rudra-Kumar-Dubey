@@ -1,7 +1,7 @@
 ### Hi there I am Rudra 👋
 
 
-- 🔭 I’m currently studing at Vellore Institute of Technology, Bhopal.
+- 🔭 I’m currently studing at Vellore Institute of Technology, Bhopal
 - 🌱 I’m currently learning BTECH CSE CORE
 - 👯 I’m looking to collaborate on Web Devlopment
 - 🤔 I’m looking for help with React

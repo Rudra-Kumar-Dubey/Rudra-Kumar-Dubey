@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studing at Vellore Institute of Technology, Bhopal.
-- 🌱 I’m currently learning BTECH CSE CORE.
+- 🌱 I’m currently learning BTECH CSE CORE
 - 👯 I’m looking to collaborate on Web Devlopment
 - 🤔 I’m looking for help with React
 - 💬 Ask me about C++, HTML , JS and CSS

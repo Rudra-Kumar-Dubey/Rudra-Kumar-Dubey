@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about C++, HTML , JS and CSS
 - 📫 How to reach me: Linkedin(https://www.linkedin.com/in/rudra-kumar-dubey/)
-- 😄 Pronouns: Rudra
 - ⚡ Fun fact: LIFE IS SHORT
 
 <!--
@@ -21,6 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with something
 - 💬 Ask me about anything
 - 📫 How to reach me: you don't need to
-- 😄 Pronouns: Rudra
 - ⚡ Fun fact: LIFE IS TOO SHORT
 -->

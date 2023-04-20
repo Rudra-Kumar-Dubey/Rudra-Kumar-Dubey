@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with something
 - 💬 Ask me about anything
 - 📫 How to reach me: you don't need to
-- ⚡ Fun fact: LIFE IS TOO SHORT
+- ⚡ Fun fact: LIFE IS TOO SHORT.
 -->

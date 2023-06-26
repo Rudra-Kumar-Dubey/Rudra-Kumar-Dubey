@@ -14,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studing at VIT BHOPAL
+- 🔭 I’m currently studing at VIT BHOPAL.
 - 🌱 I’m currently learning BTECH CSECORE
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with something.

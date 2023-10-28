@@ -4,7 +4,6 @@
 - 🔭 I’m currently studing at Vellore Institute of Technology, Bhopal
 - 🌱 I’m currently learning BTECH CSE CORE
 - 👯 I’m looking to collaborate on Web Devlopment
-- 🤔 I’m looking for help with React
 - 💬 Ask me about Java, MERN
 - 📫 How to reach me: Linkedin(https://www.linkedin.com/in/rudra-kumar-dubey/)
 - ⚡ Fun fact: LIFE IS SHORT.
